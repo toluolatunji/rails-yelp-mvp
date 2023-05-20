@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+ .container ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.container a {
+  text-decoration: none;
+  color: #337ab7;
+}
